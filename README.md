@@ -5,6 +5,9 @@ Projet réalisé à Nice les 18, 19 et 20 novembre 2026, sur le thème **« L'or
 ## Le projet
 
 _Deux ou trois phrases : le problème, la solution, pour qui._
+Problème: Nos jeunes cherchent leur voie et ne savent pas vers quelles études se tourner.
+Solution: Intégrer un assistant IA qui assimile le "rapport des possibilités" généré et aiguille le jeune vers une formation adaptée, en lui donnant des exemples de tâches journalières, et répondant aux questions.
+Le tout dans une interface "gamifiée", avec un style graphique à déterminer.
 
 ## Lancer le projet
 
