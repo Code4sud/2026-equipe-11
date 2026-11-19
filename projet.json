@@ -1,7 +1,7 @@
 {
   "nom": "Le Forum",
   "pitch": "Assistant IA déstiné à l'orientation et la recherche de formation",
-  "description": "Premier paragraphe : le problème que vous résolvez.\n\nDeuxième paragraphe : comment ça marche, et ce que vous avez construit en trois jours.",
+  "description": "Aider les jeunes de la région à trouver une formation adaptée grâce à un Assistant IA.\n\nL'assistant IA va scanner le rapport des possibles s'il est téléchargé, ou commencer par un petit questionnaire pour définir un profil rapide du jeune.\n Il va ensuite générer une interface graphique gamifiée ou le jeune pourra explorer divers corps de métier à travers des personnages qui répondront à ses questions.",
   "ecoles": ["42 Nice", "Centrale Méditérranée"],
   "stack": ["HTML", "JavaScript"],
   "demo": "",
