@@ -31,11 +31,10 @@ Si votre projet est un site sans serveur, il est publié automatiquement sur Git
 
 MIT — voir `LICENSE`.
 
-
-## Ali Abou DAHER
-## Alan BALLOTEAU
-## Tim BOISSEAU
-## Noé BERNARD
-## Ibrahim ABDELKABIR
-## Andrés BALLESTEROS
-
+## Auteurs
+***Ali Abou DAHER***  
+***Alan BALLOTEAU***  
+***Tim BOISSEAU***  
+***Noé BERNARD***  
+***Ibrahim ABDELKABIR***  
+***Andrés BALLESTEROS***
