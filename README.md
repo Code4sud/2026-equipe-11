@@ -32,7 +32,7 @@ Si votre projet est un site sans serveur, il est publié automatiquement sur Git
 MIT — voir `LICENSE`.
 
 ## Auteurs
-***Ali Abou DAHER***  
+***Ali ABOU DAHER***  
 ***Alan BALLOTEAU***  
 ***Tim BOISSEAU***  
 ***Noé BERNARD***  
