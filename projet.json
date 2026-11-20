@@ -1,10 +1,10 @@
 {
-  "nom": "Le Forum",
+  "nom": "Cairn",
   "pitch": "Assistant IA déstiné à l'orientation et la recherche de formation",
-  "description": "Aider les jeunes de la région à trouver une formation adaptée grâce à un Assistant IA.\n\nL'assistant IA va scanner le rapport des possibles s'il est téléchargé, ou commencer par un petit questionnaire pour définir un profil rapide du jeune.\n",
+  "description": "Aider les jeunes de la région à trouver une formation adaptée grâce à un Assistant IA.\n\nL'assistant va scanner son rapport des possibles et guider l'utilisateur dans la marche à suivre pour atteindre son objectif, de façon simple et claire.\n",
   "ecoles": ["42 Nice", "Centrale Méditérranée"],
-  "stack": ["HTML", "JavaScript"],
-  "demo": "",
+  "stack": ["Python 3.11", "HTML/CSS", "TOML", "Javascript" ],
+  "demo": "https://code4sud.github.io/2026-equipe-11/",
   "video": "",
   "captures": []
 }
