@@ -1,0 +1,41 @@
+# Visual identity inspired by centredespossibles.org (palette from its app.css):
+#   bleu nuit #1b1b62 · rose néon #e0349b · lumière bleue #5d62ea · violet cosmique #9940c4
+#   lavande stardust #e7e8fb · vert succès #38a678 · orange #e37636 / #eb614c
+# Font: the site uses Greycliff CF (Adobe, licensed); Outfit is a free geometric look-alike.
+
+[server]
+headless = true
+
+[theme]
+# light page (white / lavande) with bleu nuit accents, like the alternating sections of
+# centredespossibles.org; the sidebar stays bleu nuit
+base = "light"
+primaryColor = "#e0349b"
+backgroundColor = "#f6f6fd"
+secondaryBackgroundColor = "#ebecfb"
+textColor = "#1b1b62"
+baseFontSize = 17
+linkColor = "#4a4fd6"
+borderColor = "#d3d5f3"
+showWidgetBorder = true
+font = "Outfit:https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap"
+headingFontWeights = [800, 700, 700, 600, 600, 600]
+baseRadius = "1rem"
+buttonRadius = "full"
+greenColor = "#1f8a5c"
+orangeColor = "#c9631f"
+redColor = "#c8463a"
+violetColor = "#9940c4"
+blueColor = "#5d62ea"
+chartCategoricalColors = ["#e0349b", "#5d62ea", "#9940c4", "#38a678", "#e37636", "#1b1b62"]
+dataframeHeaderBackgroundColor = "#ebecfb"
+
+[theme.sidebar]
+backgroundColor = "#1b1b62"
+secondaryBackgroundColor = "#2a2b86"
+textColor = "#ffffff"
+linkColor = "#cdd0ff"
+borderColor = "#5558c4"
+
+[client]
+toolbarMode = "minimal"
