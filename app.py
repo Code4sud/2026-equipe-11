@@ -1,4 +1,4 @@
-"""Coach des Possibles - web UI.   uv run streamlit run app.py"""
+"""Le Forum - web UI.   uv run streamlit run app.py"""
 
 from __future__ import annotations
 

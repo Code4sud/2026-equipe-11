@@ -230,7 +230,7 @@ a {{ color: #4a4fd6; }}
 HERO = """
 <div class="cdp-hero">
   <div class="cdp-eyebrow">Explore ton champ des possibles</div>
-  <h1 class="cdp-title">Coach des <span>Possibles</span></h1>
+  <h1 class="cdp-title">Le <span>Forum</span></h1>
   <div class="cdp-line"></div>
   <div class="cdp-sub">Choisis un métier : je te dis <b>ce que c'est</b>, <b>quel diplôme</b> il
   faut, si c'est <b>possible sans le bac</b>, et <b>le chemin</b> pour y arriver depuis chez toi.

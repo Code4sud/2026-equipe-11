@@ -57,7 +57,7 @@ class _PDF(FPDF):
         self.set_y(-13)
         self.set_font("Outfit", "", 7.5)
         self.set_text_color(*MUTED)
-        self.cell(165, 4, "Coach des Possibles · Sources : ONISEP (formations Région Sud), "
+        self.cell(165, 4, "Le Forum · Sources : ONISEP (formations Région Sud), "
                   "France Travail (ROME 4.0), Centre des Possibles · Des pistes, pas un verdict.")
         self.cell(0, 4, f"{self.page_no()} / {{nb}}", align="R")
 
@@ -123,7 +123,7 @@ def _header(pdf: FPDF, s: Sheet) -> None:
     pdf.set_xy(M, 10)
     pdf.set_font("Outfit", "B", 8.5)
     pdf.set_text_color(*LILAS)
-    pdf.cell(text_w, 5, "MA FEUILLE DE ROUTE  ·  COACH DES POSSIBLES", new_x="LMARGIN",
+    pdf.cell(text_w, 5, "MA FEUILLE DE ROUTE  ·  LE FORUM", new_x="LMARGIN",
              new_y="NEXT")
     pdf.set_font("Outfit", "B", 24 if len(s.job) < 26 else 18)
     pdf.set_text_color(255, 255, 255)
@@ -311,7 +311,7 @@ def roadmap_pdf(s: Sheet) -> bytes:
     pdf.set_margins(M, M, M)
     pdf.set_auto_page_break(True, margin=16)
     pdf.set_title(f"Ma feuille de route - {clean(s.job)}")
-    pdf.set_author("Coach des Possibles")
+    pdf.set_author("Le Forum")
     pdf.add_page()
     _header(pdf, s)
     _title(pdf, "Le métier en bref")

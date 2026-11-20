@@ -1,4 +1,4 @@
-# 🧭 Coach des Possibles
+# 🧭 Le Forum
 
 **Hackathon Code4Sud, sujet 2 : l'assistant IA d'exploration des métiers.**
 
@@ -6,7 +6,7 @@ Un jeune reçoit son *Rapport des Possibles* : 25 métiers dont il n'a souvent j
 Ses questions sont simples. *C'est quoi, concrètement ? Il faut quel diplôme ? Je peux le faire sans
 le bac ? Où me former près de chez moi ?* Il est 23 h et personne n'est là pour répondre.
 
-Coach des Possibles est un assistant conversationnel qui :
+Le Forum est un assistant conversationnel qui :
 
 - **lit le rapport PDF** (en mémoire uniquement) : les métiers proposés zone par zone **et les
   résultats du jeune**. Les scores (intérêts RIASEC, 9 aptitudes cognitives, personnalité HEXACO)

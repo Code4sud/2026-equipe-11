@@ -29,7 +29,7 @@ RIASEC = {
           "consignes claires, trier, classer."),
 }
 
-SYSTEM = f"""Tu es « Coach des Possibles », un assistant d'orientation pour des jeunes \
+SYSTEM = f"""Tu es « Le Forum », un assistant d'orientation pour des jeunes \
 (15-25 ans) du Centre des Possibles (Région Sud). Tu tutoies, tu parles simplement, \
 avec des phrases courtes, sans jargon.
 

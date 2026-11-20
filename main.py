@@ -1,4 +1,4 @@
-"""Terminal version of the Coach des Possibles (quick tests without the web UI).
+"""Terminal version of Le Forum (quick tests without the web UI).
 
     uv run python main.py --report docs/rapport.pdf --city Nice --no-bac
     uv run python main.py -q "c'est quoi un plongeur ?"
@@ -15,7 +15,7 @@ from coach.llm import LLMError
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Coach des Possibles (terminal)")
+    ap = argparse.ArgumentParser(description="Le Forum (terminal)")
     ap.add_argument("--report", type=Path, help="Rapport des Possibles (PDF)")
     ap.add_argument("--city", default="", help="ville du jeune (Région Sud)")
     bac = ap.add_mutually_exclusive_group()
