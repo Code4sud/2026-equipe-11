@@ -4,7 +4,7 @@
   "description": "Aider les jeunes de la région à trouver une formation adaptée grâce à un Assistant IA.\n\nL'assistant va scanner son rapport des possibles et guider l'utilisateur dans la marche à suivre pour atteindre son objectif, de façon simple et claire.\n",
   "ecoles": ["42 Nice", "Centrale Méditérranée"],
   "stack": ["Python 3.11", "HTML/CSS", "TOML", "Javascript" ],
-  "demo": "https://code4sud.github.io/2026-equipe-11/",
+  "demo": "",
   "video": "",
   "captures": ["captures/accueil.png", "captures/chemin.png", "captures/formations-carte.png", "captures/comparateur.png", "captures/feuille-de-route.png"]
 }
