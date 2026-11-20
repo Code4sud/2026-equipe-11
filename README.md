@@ -18,7 +18,7 @@ Il répondra à ses questions à partir des données qui lui ont été fournies,
     uv sync
 ```
 
-2. **Lancer le modèle IA en local** (il faut [Ollama](https://ollama.com) :
+2. **Lancer le modèle IA en local** (il faut [Ollama](https://ollama.com)) :
 
 ```bash
     ollama serve &
